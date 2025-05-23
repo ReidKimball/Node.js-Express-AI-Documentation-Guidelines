@@ -1,0 +1,4 @@
+# GLOBAL RULES
+Always acknowledge and report when you are following a rule below, from the Global or Local Windsurf rules, and memories.
+
+Always document your code according to the instructions in this file: ENTER_YOUR_FULL_PATH\Node.js-Express-AI-Documentation-Guidelines.md
