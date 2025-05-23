@@ -38,7 +38,7 @@ This guide empowers AI to act as an expert backend software engineer, a meticulo
 This repository is not a library or a direct tool. Instead, it's a **prompt template** or a **standard specification** you provide to your AI.
 
 1.  **As a Direct AI Prompt:**
-    *   Copy the entire content of the `Node.js-Express-AI-Documentation-Guidelines.md` file (which would contain the detailed instructions you provided) or paste the full set of instructions directly into the prompt interface of your chosen AI (e.g., OpenAI's ChatGPT, Google's Gemini, Anthropic's Claude, etc.).
+    *   Download the `Node.js-Express-AI-Documentation-Guidelines.md` file or copy/paste the full set of instructions directly into the prompt interface of your chosen AI (e.g., OpenAI's ChatGPT, Google's Gemini, Anthropic's Claude, etc.).
     *   Immediately after providing the instructions, provide the Node.js Express backend code file you wish to have documented.
     *   Example Prompt Structure:
         ```
@@ -55,7 +55,7 @@ This repository is not a library or a direct tool. Instead, it's a **prompt temp
 2.  **Integration into Automated Workflows:**
     *   For more advanced setups, integrate these instructions into custom AI agents, automated documentation pipelines, or fine-tuning datasets for specialized AI models.
     *   Use it as a baseline for creating custom documentation generation scripts that leverage AI APIs.
-    *   Use the global_rules.txt file in this repo to instruct your Windsurf AI to use the Node.js-Express-AI-Documentation.md file.
+    *   Use the global_rules.txt file in this repo to instruct your Windsurf AI to use the Node.js-Express-AI-Documentation.md file to automatically document the code it generates.
 3.  **Learning & Reference:**
     *   Even without AI, these instructions serve as a robust guideline for human developers to write high-quality, consistent JSDoc for Node.js Express projects.
 
