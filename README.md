@@ -6,7 +6,7 @@ A robust standard for AI-generated JSDoc documentation, designed for Node.js Exp
 ![Documentation Badge](https://img.shields.io/badge/Documentation-JSDoc-blue?style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge)
 ![AI-Powered Badge](https://img.shields.io/badge/AI--Powered-Yes-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT_1.0-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 ---
 
@@ -67,13 +67,16 @@ This repository is not a library or a direct tool. Instead, it's a **prompt temp
 *   **Maximized AI Utility:** Provides clear, structured guidelines to maximize the effectiveness of AI tools in generating highly relevant and accurate documentation.
 *   **Production-Ready Code:** The emphasis on error handling, security, and performance considerations ensures your documentation reflects robust, production-grade practices.
 *   **Automated Documentation Compatibility:** Explicitly designed for seamless integration with JSDoc and other documentation generation tools, producing clean API references.
-
 ## 📜 License
 
-This project is dedicated to the public domain under the [Creative Commons Zero (CC0 1.0 Universal) Public Domain Dedication](LICENSE).
+This project is licensed under the **MIT License**.
 
-You are free to use, modify, distribute, and build upon the material for any purpose, without any restrictions.
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, and to permit persons to whom the software is furnished to do so, subject to the following condition:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+For the full license text, see the [LICENSE](LICENSE) file in this repository.
 
 ---
 
-**Contributions & Feedback are Welcome!** While this project is dedicated to the public domain, we encourage feedback, suggestions, or improvements if you find ways to make these instructions even better for AI documentation generation.
+**Contributions & Feedback are Welcome!** We encourage feedback, suggestions, or improvements if you find ways to make these instructions even better for AI documentation generation.
