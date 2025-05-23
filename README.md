@@ -6,7 +6,7 @@ A robust standard for AI-generated JSDoc documentation, designed for Node.js Exp
 ![Documentation Badge](https://img.shields.io/badge/Documentation-JSDoc-blue?style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge)
 ![AI-Powered Badge](https://img.shields.io/badge/AI--Powered-Yes-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT_1.0-lightgrey?style=for-the-badge)
 
 ---
 
